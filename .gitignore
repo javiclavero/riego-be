@@ -1,0 +1,25 @@
+# Entorno virtual
+.venv/
+
+# Archivos de entorno
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos temporales de editores
+.vscode/
+*.swp
+*.swo
+.idea/
+
+# Otros archivos temporales del sistema operativo
+*.log
+*.tmp
+temp/
+tmp/
+
+# Si usas Docker (para el futuro)
+# .dockerignore
